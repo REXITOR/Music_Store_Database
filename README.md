@@ -22,7 +22,7 @@ SQL project to analyze online music store data.
 
 
 ## Question Set 3
-1. Find how much amount spent by each customer on artists? Write a query to return the customer name, artist name, and total spent
+1. Find how much the amount spent by each customer on the best artist in terms of spending? Write a query to return the customer name, artist name, and total spent
 2. We want to find out the most popular music Genre for each country, \
    We determine the most popular genre as the genre with the highest amount of purchases, \
    Write a query that returns each country along with the top Genre, \
