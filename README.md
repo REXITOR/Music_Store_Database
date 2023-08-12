@@ -6,7 +6,7 @@ SQL project to analyze online music store data.
 2. Which countries have the most Invoices?
 3. What are the top 3 values of the total invoice?
 4. Which city has the best customers? We would like to throw a promotional Music Festival in the city we made the most money, 
-   Write a query that returns one city that has the highest sum of invoice totals, \
+   Write a query that returns one city that has the highest sum of invoice totals, 
    Return both the city name & sum of all invoice totals.
 6. Who is the best customer? The customer who has spent the most money will be declared the best customer, \
    Write a query that returns the person who has spent the most money.
