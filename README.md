@@ -34,4 +34,6 @@ SQL project to analyze online music store data.
 
 -----------------------
 
+**You can see the details of the queries in the [Music Store Query](https://github.com/REXITOR/Music_Store_Database/blob/master/Music_Store_Query.sql) file**.
+
 ![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
